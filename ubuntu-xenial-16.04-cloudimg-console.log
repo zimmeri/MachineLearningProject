@@ -28,7 +28,7 @@
 [    0.000000] MTRR: Disabled
 [    0.000000] x86/PAT: MTRRs disabled, skipping PAT initialization too.
 [    0.000000] CPU MTRRs all blank - virtualized system.
-[    0.000000] x86/PAT: Configuration [0-7]: WB  WT  UC- UC  WB  WT  UC- UC  
+[    0.000000] x86/PAT: Configuration [0-7]: WB  WT  UC- UC  WB  WT  UC- UC
 [    0.000000] found SMP MP-table at [mem 0x0009fff0-0x0009ffff] mapped at [ffff88000009fff0]
 [    0.000000] Scanning 1 areas for low memory corruption
 [    0.000000] RAMDISK: [mem 0x362fc000-0x37175fff]
@@ -661,7 +661,7 @@ cloud-init[960]: |       oS.+B +   |
 [    9.042073] cloud-init[960]: |   . .. O.+ *..  |
 [    9.042821] cloud-init[960]: |    . .*o..B.o.. |
 [    9.043250] cloud-init[960]: |     ...Eoooo .. |
-[0;32m  OK  [0m[    9.044209] ] cloud-initStarted LSB: daemon to balance interrupts for SMP systems.[960]: 
+[0;32m  OK  [0m[    9.044209] ] cloud-initStarted LSB: daemon to balance interrupts for SMP systems.[960]:
 +----[SHA256]-----+
 [[0;32m  OK  [0m] Started LSB: Set the CPU Frequency Scaling governor to "ondemand".
 [[0;32m  OK  [0m] Started Hold until boot process finishes up.
@@ -693,7 +693,7 @@ cloud-init[960]: |       oS.+B +   |
 [[0;32m  OK  [0m] Started Session 1 of user vagrant.
 [[0;32m  OK  [0m] Started User Manager for UID 1000.
 ci-info: no authorized ssh keys fingerprints found for user ubuntu.
-<14>Jul 15 01:46:02 ec2: 
+<14>Jul 15 01:46:02 ec2:
 <14>Jul 15 01:46:02 ec2: #############################################################
 <14>Jul 15 01:46:02 ec2: -----BEGIN SSH HOST KEY FINGERPRINTS-----
 <14>Jul 15 01:46:02 ec2: 1024 SHA256:Cd6lBYlwY07gmH/6CuS8ktUy/YiPlqOgaKR4//aOl0U root@ubuntu-xenial (DSA)
@@ -715,4 +715,4 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDDPT/balfXxrEVDxc2wyIqNgQjPPbwW/FktSe0EG9q
 
 Ubuntu 16.04.6 LTS ubuntu-xenial ttyS0
 
-ubuntu-xenial login: 
+ubuntu-xenial login:

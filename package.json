@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zimmeri/MachineLearningProject.git"
+  },
+  "author": "Zimmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zimmeri/MachineLearningProject/issues"
+  },
+  "homepage": "https://github.com/zimmeri/MachineLearningProject#readme"
+}
