@@ -42,3 +42,7 @@ echo "ALTER USER 'admin'@'localhost' IDENTIFIED WITH mysql_native_password BY '$
 mysql -u root -p$mypass main < /home/vagrant/home/db/main.sql
 
 #pip dependencies
+pip3 install --upgrade pip
+pip3 install sklearn
+pip3 install quandl
+pip3 install pandas
